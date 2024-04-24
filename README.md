@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Markov Chain Model
+# Rock-Paper-Scissors Markov Chains Model
 
 ## Introduction
 This repository houses a predictive Markov chain model for the classic game of rock-paper-scissors. The model's objective is to forecast an opponent's moves and evolve a counter-strategy, thus simulating a strategic game environment. The theoretical basis of the model lies in the assumption that the opponent's current move is dependent solely on their last move, not on a longer sequence of past moves.
