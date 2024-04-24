@@ -1,0 +1,9 @@
+name: mm-rps-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - jupyter
+  - matplotlib
